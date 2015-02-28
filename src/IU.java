@@ -8,5 +8,5 @@
  * @author Felipe
  */
 public class IU {
-    
+    HOLA;
 }
